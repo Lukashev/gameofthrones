@@ -2,7 +2,7 @@
   "characters": [
     {
       "id": 1,
-      "name": "Eddard 'Ned' Stark",
+      "name": "Eddar 'Ned' Stark",
       "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
       "deathCause": "Drug overdose",
       "killedBy": "Jaime Lannister",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "Robert Baratheon",
+      "name": "Eddar 'Ned' Stark",
       "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
       "deathCause": "Drug overdose",
       "killedBy": "Jaime Lannister",
@@ -18,7 +18,31 @@
     },
     {
       "id": 3,
-      "name": "Robb Stark",
+      "name": "Eddar 'Ned' Stark",
+      "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
+      "deathCause": "Drug overdose",
+      "killedBy": "Jaime Lannister",
+      "murderWeapon": "sword"
+    },
+    {
+      "id": 4,
+      "name": "Eddar 'Ned' Stark",
+      "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
+      "deathCause": "Drug overdose",
+      "killedBy": "Jaime Lannister",
+      "murderWeapon": "sword"
+    },
+    {
+      "id": 5,
+      "name": "Eddar 'Ned' Stark",
+      "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
+      "deathCause": "Drug overdose",
+      "killedBy": "Jaime Lannister",
+      "murderWeapon": "sword"
+    },
+    {
+      "id": 6,
+      "name": "Eddar 'Ned' Stark",
       "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
       "deathCause": "Drug overdose",
       "killedBy": "Jaime Lannister",

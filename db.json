@@ -1,6 +1,7 @@
 {
   "characters": [
     {
+      "id": 1,
       "name": "Eddard 'Ned' Stark",
       "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
       "deathCause": "Drug overdose",
@@ -8,6 +9,7 @@
       "murderWeapon": "sword"
     },
     {
+      "id": 2,
       "name": "Robert Baratheon",
       "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
       "deathCause": "Drug overdose",
@@ -15,6 +17,7 @@
       "murderWeapon": "sword"
     },
     {
+      "id": 3,
       "name": "Robb Stark",
       "description": "In A Game of Thrones (1996), Ned Stark is introduced as the virtuous and honorable patriarch of House Stark and the father of six children.",
       "deathCause": "Drug overdose",
